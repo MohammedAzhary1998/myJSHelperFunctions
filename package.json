@@ -12,6 +12,7 @@
     "fs": "^0.0.1-security",
     "ini": "^2.0.0",
     "joi": "^17.4.0",
+    "myhelperfunctions": "^1.0.2",
     "request": "^2.88.2"
   }
 }
